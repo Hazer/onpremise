@@ -1,1 +1,4 @@
 # Add plugins here
+sentry-slack
+sentry_mattermost
+sentry-trello
